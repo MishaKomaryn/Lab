@@ -1,0 +1,5 @@
+int i=0;
+    while(i<dim){
+        printf("Елемент номер[%i] = %.2f\n",i, array[i]);
+        i++;
+    }
